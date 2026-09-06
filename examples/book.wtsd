@@ -1,0 +1,14 @@
+@title WTSD 示例书
+@author Example Author
+@language zh-CN
+
+@chapter 第一章
+雪从傍晚开始落下。
+站台上的灯依次亮了起来。
+
+@image "assets/sample.svg" alt="示意图" caption="一张嵌入 EPUB 的示意图" width=70%
+
+@h2 夜色
+列车尚未来。
+@pagebreak
+这是强制分页后的第一段。
